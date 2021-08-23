@@ -1,0 +1,36 @@
+{
+  "name": "jasolas_list",
+  "version": "1.0.0",
+  "description": "For educational purposes only through Fullstack Academy Curriculum. This project will be consuming another API, which is hosted at Stranger's Things API (https://strangers-things.herokuapp.com/api/). Collaborators on this project are students, Jason Rader and Nicholas Blagg.",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "repository": {
+    "type": "git"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "axios": "^0.21.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "^4.0.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {}
+}

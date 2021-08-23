@@ -1,0 +1,19 @@
+#register-page {
+    background: orange;
+}
+
+#register-page h1 {
+    font-size: 60px;
+}
+
+#register-page form {
+    background: lightblue;
+}
+
+#register-page input {
+    height: 25px;
+}
+
+#register-page button {
+    background: yellow;
+}

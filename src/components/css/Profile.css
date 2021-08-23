@@ -1,0 +1,19 @@
+#greeting {
+    background: red;
+}
+
+#profile {
+    background: green;
+}
+
+#profile .inbox {
+    background: yellow;
+}
+
+.message {
+    background: gray;
+}
+
+#profile .sent {
+    background: lightcyan;
+}

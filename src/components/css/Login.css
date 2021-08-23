@@ -1,0 +1,30 @@
+#login-page {
+    background: yellow;
+}
+
+#login-page h1 {
+    font-size: 50px;
+}
+
+#login-page form {
+    background: green;
+}
+
+#login-page input {
+    height: 30px;
+    width: 185px;
+}
+
+.login-button {
+    width: 130px;
+    background: red;
+    color: white;
+}
+
+.login-button:hover {
+    background: lightblue;
+} 
+
+#register-link {
+    font-size: 35px;
+}

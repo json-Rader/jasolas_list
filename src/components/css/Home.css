@@ -1,0 +1,14 @@
+#home-page {
+    background: red;
+}
+
+#home-page h1 {
+    background: green;
+    font-size: 95px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+#home-page h3 {
+    font-size: 70px;
+    font-family: 'Times New Roman', Times, serif;
+}

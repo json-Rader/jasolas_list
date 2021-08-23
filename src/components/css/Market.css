@@ -1,0 +1,78 @@
+/* New Post */
+#new-post {
+    background: red;
+}
+
+#new-post form {
+    background: yellow;
+    width: 650px;
+}
+
+#new-post input {
+    height: 25px;
+}
+
+/* Post Board */
+#featured-post {
+    background: green;
+}
+
+#featured-post .post {
+    background: blue;
+}
+
+.post-inquiry button {
+    background: yellow;
+}
+
+.post-inquiry h1 {
+    background: orange;
+}
+
+.post-inquiry p {
+    background: yellow;
+}
+
+.post-inquiry h3 {
+    background: red;
+}
+
+.post-inquiry h4 {
+    background: gray;
+}
+
+
+/* User Post */
+#user-post {
+    background: gray;
+}
+
+#user-post h2 {
+    background: white;
+}
+
+#user-post p {
+    background: blue;
+}
+
+#user-post h4 {
+    background: red;
+}
+
+#user-post h3 {
+    background: yellow;
+}
+
+#user-post button {
+    background: orange;
+}
+
+/* Search */
+input {
+    background: lightgray;
+}
+
+/* Posts */
+#posts-page {
+    background: rgb(190, 233, 233);
+}

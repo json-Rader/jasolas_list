@@ -1,0 +1,12 @@
+#running-title {
+    background: gray;
+}
+#nav-bar {
+    background: yellow;
+    font-size: 50px;
+}
+
+#nav-bar h1 {
+    color: red;
+    font-size: 90px;
+}

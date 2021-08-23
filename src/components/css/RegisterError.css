@@ -1,0 +1,14 @@
+/* Should make these styles the same as Login Error css for consistency */
+
+#register-error {
+    background: orange;
+}
+
+#register-error h1 {
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#register-link {
+    font-size: 30px;
+}

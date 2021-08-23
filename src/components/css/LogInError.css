@@ -1,0 +1,12 @@
+#log-in-error {
+    background: orange;
+}
+
+#log-in-error h1 {
+    font-size: 35px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+#login-link {
+    font-size: 30px;
+}
